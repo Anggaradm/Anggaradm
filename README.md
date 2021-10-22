@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anggaradm
-- 👀 I’m interested in web programming
+- 👀 I was interested in web programming, and now iam interested on UI/UX develope.
 - I have learning dart and java language for now
 
 that's all about me and thank you
